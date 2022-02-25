@@ -33,8 +33,11 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noernova&show_icons=true&locale=en&layout=compact" alt="noernova" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noernova&show_icons=true&locale=en&layout=compact" alt="noernova" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=noernova&show_icons=true&locale=en" alt="noernova" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=noernova&" alt="noernova" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noernova&show_icons=true&locale=en" alt="noernova" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noernova&" alt="noernova" /></p>
 
 
 
