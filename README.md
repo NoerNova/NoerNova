@@ -6,7 +6,7 @@
 <p align="center"><a href="https://www.twitter.com/noer_nova"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/norhsangpha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.youtube.com/channel/UCvmVBOJ2LPD_lNcIhLXqmYw/"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://www.noernova.com"><img src="https://img.shields.io/badge/websites-%23#282A36.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noernova" alt="noernova" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noernova&row=2&column=3&theme=nord" alt="noernova" /></a> </p>
 
 
 
@@ -36,11 +36,13 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noernova&show_icons=true&locale=en&layout=compact" alt="noernova" /></p>
+<div align="left">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noernova&show_icons=true&locale=en&layout=compact&theme=nord" alt="noernova" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noernova&show_icons=true&locale=en" alt="noernova" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=noernova&show_icons=true&locale=en&theme=nord" alt="noernova" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noernova&" alt="noernova" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noernova&theme=nord" alt="noernova" /></p>
+</div>
 
 ---
 
