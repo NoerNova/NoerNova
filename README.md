@@ -1,7 +1,7 @@
 ![NoerNova_Header](https://user-images.githubusercontent.com/9565672/155766673-1219733c-92cb-40e2-bca9-90ade46cd7ea.png)
 
 <h1 align="center">Hi 👋, I'm NoerNova (NorHsangPha)</h1>
-<h3 align="center">I code, I play the guitar, I drink coffee, and watch dump cat on the internet.</h3>
+<h3 align="center">I code, I play the guitar, I drink coffee, and watch dumb cat on the internet.</h3>
 
 <p align="center"><a href="https://www.twitter.com/noer_nova"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/norhsangpha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.youtube.com/channel/UCvmVBOJ2LPD_lNcIhLXqmYw/"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://www.noernova.com"><img src="https://img.shields.io/badge/websites-%23#282A36.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
 
