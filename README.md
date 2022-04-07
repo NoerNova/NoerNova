@@ -40,8 +40,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noernova&show_icons=true&locale=en&layout=compact&theme=nord" alt="noernova" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=noernova&show_icons=true&locale=en&theme=nord" alt="noernova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noernova&theme=nord" alt="noernova" /></p>
 </div>
 
 ---
