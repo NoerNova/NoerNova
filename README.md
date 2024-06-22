@@ -47,6 +47,5 @@
 
 <h3 align="left">Support Me:</h3>
   You can help and support what I do by direct contact me
-  phone: (+66) 086-339-8510
-  email: noernova666@gmail.com
+  email: norhsangpha@gmail.com
 </div>
