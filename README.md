@@ -29,7 +29,8 @@ I am a full-stack software engineer with a strong interest in AI. My current foc
 
 
 <h3 align="left">Support Me:</h3>
-  You can help and support what I do by
+
+  You can help and support what I do by <br/>
   
   [![Sponsor on GitHub](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github_sponsor.svg)](https://github.com/sponsors/NoerNova)
   
