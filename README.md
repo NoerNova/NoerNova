@@ -4,12 +4,15 @@
 <h3 align="center">Code virtuoso by day, guitar maestro by night.</h3>
 <h4 align="center">🎸☕️ Cat cuddler, coffee sipper, and a symphony of passions in one cool coder's world. 🐾💻 </h4>
 
-<p align="center"><a href="https://www.twitter.com/noer_nova"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/norhsangpha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.youtube.com/channel/UCvmVBOJ2LPD_lNcIhLXqmYw/"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://www.noernova.com"><img src="https://img.shields.io/badge/websites-%23#282A36.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
-
+<p align="center">
+  <a href="https://www.twitter.com/noer_nova"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fnoer_nova" height=25></a>
+  <a href="https://www.linkedin.com/in/norhsangpha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.huggingface.io/norhsangpha"><img src="https://img.shields.io/badge/huggingface-%23FF9D00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/channel/UCvmVBOJ2LPD_lNcIhLXqmYw/"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+  <a href="https://www.noernova.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fnoernova.com" height=25></a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NoerNova&row=2&column=3&theme=nord" alt="noernova" /></a> </p>
-
-
 
 - 👨‍💻 All of my projects are available at [https://www.noernova.com/works](https://www.noernova.com/works)
 - 📝 I regularly write articles on [https://www.noernova.com/blog](https://www.noernova.com/blog)
