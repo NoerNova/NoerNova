@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.twitter.com/noer_nova"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fnoer_nova" height=25></a>
   <a href="https://www.linkedin.com/in/norhsangpha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.huggingface.io/norhsangpha"><img src="https://img.shields.io/badge/huggingface-%23FF9D00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" height=25></a>
+  <a href="https://huggingface.co/NorHsangPha"><img src="https://img.shields.io/badge/huggingface-%23FF9D00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" height=25></a>
   <a href="https://www.youtube.com/channel/UCvmVBOJ2LPD_lNcIhLXqmYw/"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
   <a href="https://www.noernova.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fnoernova.com" height=25></a>
 </p>
